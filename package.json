@@ -1,0 +1,9 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "description": "Nova — AI coding assistant",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
